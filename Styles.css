@@ -1,44 +1,25 @@
 body { 
     background-color: rgb(255, 229, 229);
-}
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 
-.header-section {
-    margin: 10px 0 0 40px;
-    color: rgb(99, 99, 99);
-    font-weight: bold;
-    text-align: left;
-    display: flex;
 }
-
-h3 {
-    margin-top: 70px;
-    font-size: xx-large;
-}
-
-.about-section, 
-.skills-section, 
-.communication-abilities, 
-.academic-background, 
-.work-experience, 
-.mindset-philosophy {
-    margin-left: 300px;
-}
-
-
-.skills-section, 
-.communication-abilities, 
-.academic-background, 
-.work-experience {
-    float: left;
-    position: relative;
-    margin-left: 50px;
-}
-
-li {
-    margin-top: 15px;
-}
-.profile-header{
-    margin-top: 15px;
-    font-size: x-large;
+.Infome {
+    font-size: medium;
     text-align: center;
+}
+
+.eddie{
+    text-align: left;
+    color: rgb(49, 49, 49);
+}
+.motive{
+    font-weight: bold;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 5px;
+    text-align: center;
+}
+ol, li{
+    margin-top: 10px;
 }
